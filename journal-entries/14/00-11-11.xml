@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+            <hi rend="bold">[409]</hi>
+         </p>
+         <p>
+            <hi rend="bold">22</hi><hi rend="bold superscript">nd</hi><hi rend="bold"> Sunday after Trinity, November 11</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1900.</hi>
+         </p>
+         <p>The weather has become bitterly cold. There was also a thick fog, the first of the season I think. At 8 a.m. there were 30 comm<hi rend="superscript underline">ts</hi>. <persName xml:id="67">Frank Capon</persName> served. I read Mattins, Celebrated, &amp; preached. 5 comm<hi rend="superscript underline">ts</hi>.  Then I yielded to the seductions of indolence, and the proffered excuses of fog, &amp; sent a wire to <persName xml:id="68">Pereira</persName> at Croydon, crying off my lecture on 'Anglicanism'.  <hi rend="bold underline">I told the church&#8211;officers &amp;c. of my approaching departure</hi>. In the course of the afternoon, <persName xml:id="69" display="no">Carter</persName> called to ask me whether I would support <persName xml:id="70">Ingleby</persName>'s return to the hospital, to which I returned a decided negative. If he pledged himself to continue my r&#x00E9;gime? Negative again. Very small congregation at Evensong, as everybody had flocked to S. Clement's to hear the <persName xml:id="71">Rector of Mafeking</persName>. Frank &amp; <persName xml:id="61">Harman</persName> came in to supper.</p>
+         <p>Offertories:&#8211;</p>
+         <table rend="rules">
+            <row>
+               <cell rend="No_Spacing">At</cell>
+               <cell rend="No_Spacing">8</cell>
+               <cell rend="No_Spacing">a.m.</cell>
+               <cell rend="No_Spacing">.</cell>
+               <cell rend="No_Spacing">8</cell>
+               <cell rend="No_Spacing">.</cell>
+            </row>
+            <row>
+               <cell rend="No_Spacing">“</cell>
+               <cell rend="No_Spacing">11</cell>
+               <cell rend="No_Spacing">“</cell>
+               <cell rend="No_Spacing">1.</cell>
+               <cell rend="No_Spacing">7.</cell>
+               <cell rend="No_Spacing">11</cell>
+            </row>
+            <row>
+               <cell rend="No_Spacing">“</cell>
+               <cell rend="No_Spacing">7</cell>
+               <cell rend="No_Spacing">p.m.</cell>
+               <cell rend="No_Spacing">
+                  <hi rend="underline">1.</hi>
+               </cell>
+               <cell rend="No_Spacing">
+                  <hi rend="underline">4.</hi>
+               </cell>
+               <cell rend="No_Spacing">
+                  <hi rend="underline">9</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="No_Spacing"/>
+               <cell rend="No_Spacing"/>
+               <cell rend="No_Spacing"/>
+               <cell rend="No_Spacing">&#x00A3;3.</cell>
+               <cell rend="No_Spacing">0.</cell>
+               <cell rend="No_Spacing">8</cell>
+            </row>
+         </table>
+         <p>
+            
+         </p>
+         </body></text></TEI>
