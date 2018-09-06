@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[358]</hi>
+         </p>
+         <p>
+<hi rend="bold">Tuesday, November 8</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1904.</hi>
+         </p>
+         <p>My Birthday once more.  41 years gone for ever.  My <persName xml:id="7">Godson</persName> wrote affectionately: & <persName xml:id="75">Tommie</persName> came to see me.  There were letters from <persName xml:id="76">Carissima</persName>, <persName xml:id="77">Podge</persName>, my old <persName xml:id="461">Aunt</persName>; & still older <persName xml:id="2007" display="no">Nurse</persName>.</p>
+         <p><persName xml:id="648">Caröe</persName> the designer of that odious <persName xml:id="187">Farrar</persName> monument came to see me, & together we went to the church, & I authorised the erection.</p>
+         <p>Most part of the morning I wrote letters.</p>
+         <p><persName xml:id="208">Beeching</persName> came in to see me friendly-wise.</p>
+         <p><persName xml:id="633">Sir H. Graham</persName> sent £10 to my Fund for <persName xml:id="300">Ellison</persName>.  I went round to the Choir-House, & left my usual benefaction for the boys. </p>
+         <p>
+<hi rend="bold">[359]</hi>
+         </p>
+         <p>My Fund for Ellison</p>
+         <table rend="rules">
+            <row>
+               <cell>Pd</cell>
+               <cell>The Rector</cell>
+               <cell>£10</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell>Sir Henry Graham</cell>
+               <cell>£10</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="1729">M<hi rend="superscript underline">rs</hi> Swinburne</persName></cell>
+               <cell>£10</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="616">M<hi rend="superscript underline">rs</hi> Hunt</persName></cell>
+               <cell>£10</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="184">M<hi rend="superscript underline">r</hi> Montague-Smith</persName></cell>
+               <cell>£5.5.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="629" display="no">M<hi rend="superscript underline">r</hi> Richardson</persName></cell>
+               <cell>£5.5.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="1849" display="no">M<hi rend="superscript underline">r</hi> Younger</persName></cell>
+               <cell>£5.5.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="560">Admiral Rolfe</persName></cell>
+               <cell>£5.0.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="886" display="no">Miss Jeffcock</persName></cell>
+               <cell>£5.0.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell>R. Hon. <persName xml:id="232">J. G. Talbot</persName> M.P.</cell>
+               <cell>£3.0.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="1116" display="no">D<hi rend="superscript underline">r</hi> Sinclair</persName></cell>
+               <cell>£1.1.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="230">Sir Charles Renshaw</persName></cell>
+               <cell>£5.0.0</cell>
+            </row>
+            <row>
+               <cell/>
+               <cell><persName xml:id="489">Rev E. Sherwood</persName></cell>
+               <cell>Poundsign1.0.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="601">Sir Kenneth Mackenzie</persName></cell>
+               <cell>£5.0.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="62">Rev. S. Kirshbaum</persName></cell>
+               <cell>£1.1.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="156">E. H. Fedarb</persName> Esq</cell>
+               <cell>£1.1.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="282">Rev. F. Campbell</persName></cell>
+               <cell>£1.1.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="44">The Dean</persName></cell>
+               <cell>£10.0.0</cell>
+            </row>
+            <row>
+               <cell>Pd</cell>
+               <cell><persName xml:id="1547">C. S. Parker</persName> Esq</cell>
+               <cell>
+<hi rend="underline">£5.0.0</hi>
+               </cell>
+            </row>
+            <row>
+               <cell/>
+               <cell/>
+               <cell>£98.19.0</cell>
+            </row>
+         </table>
+         <p>(I sent Ellison £100 on Dec 31<hi rend="superscript underline">st</hi>)</p>
+         <p>
+            
+         </p>
+         </body></text></TEI>

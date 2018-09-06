@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[199]</hi>
+         </p>
+         <p>
+<hi rend="bold">Tuesday, June 9</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">,1903.</hi>
+         </p>
+         <p>Letters written to -:</p>
+         <list type="unordered">
+            <item><persName xml:id="413">H. R. Reichel</persName> Esq.</item>
+            <item><persName xml:id="414">F. Macmillan</persName> Esq.</item>
+            <item><persName xml:id="415">F. Platt Higgins</persName> Esq M.P.</item>
+            <item><persName xml:id="416">G. Murray</persName> Esq</item>
+            <item>The Rev. <persName xml:id="417">H. Alford</persName></item>
+            <item>The Rev. <persName xml:id="418">A. Poynder</persName></item>
+            <item><persName xml:id="419">C. C. Craig</persName> Esq. M.P.</item>
+            <item><persName xml:id="420" display="no">Miss Brown</persName>.</item>
+         </list>
+         <p>Two <ref xml:id="304"><ref xml:id="305">letters</ref></ref> appeared in the ‘Times' by way of response to <ref xml:id="303">mine</ref>. The one from <persName xml:id="421">Russell Wakefield</persName>, the other from <persName xml:id="423">Simpson</persName>, the Head of the Leeds Clergy School.</p>
+         <p>The death of <persName xml:id="422">Canon Moberley</persName> is reported.</p>
+         <p>
+            
+         </p>
+         </body></text></TEI>

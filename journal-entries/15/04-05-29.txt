@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><text><body>
+<hi rend="b">[307] </hi>
+         </p>
+         <p>
+<hi rend="b">Trinity Sunday, May 29</hi><hi rend="b sup u">th</hi><hi rend="b">, 1904.</hi>
+         </p>
+         <p>
+<hi rend="u">[symbol]</hi>
+         </p>
+         <p>A most glorious day: just such another was that day seventeen years ago when I was ordained. How well I call to mind Cuddesdon Church, and my own blunder when, as Gospeller, I added "Here endeth the Gospel" to my lection, to the consternation of the choir.  <hi rend="i b u">A <ref id="36">Manchester newspaper</ref> describes me as "perhaps, the best-hated man in the Church of England, certainly by the dominant High Church section"</hi><hi rend="i">. This is a suggestive result of 17 years clerical life. Yesterday I received a note from the <persName id="166">Bishop of London</persName> returning my copy of the "Hibbert Journal".  The note was very kindly expressed but informed me that </hi><hi rend="i b u">his Lordshop was about to fulminate against me at Ely</hi><hi rend="i bold">!</hi><hi rend="i">  It will be interesting to note what effect this will have on (</hi>&#x3B1;<hi rend="i">) the British Public, (</hi>&#x3B2;<hi rend="i">) the Church Association, (</hi>&#x3B3;<hi rend="i">) the <orgName id="16">S. Margaret's</orgName> congregation.  </hi><hi rend="i b u">Personally I am not one who regards a Bishop's lightest word as a weighty thing</hi><hi rend="i">, but I suspect that in this respect also I am not representative.</hi>
+         </p>
+         <p>I celebrated at 8 a.m.; there were but 18 com<hi rend="sup u">ts</hi> altogether.  At Mattins I preached a sermon originally written for another purpose, &amp; but two years old!  I appended a Trinitarian peroration, &amp; it served well enough.  Offertory &#x00A3;17.1.1.</p>
+         <p>
+<hi rend="b">[308]</hi>
+         </p>
+         <p><persName id="117">Rashdall</persName> was preaching in the Abbey, &amp; among his congregation was the <persName id="580">Alake of Abeokuta</persName>, splendidly apparelled.  After lunch he came &amp; took me for a constitutional down the Embankment.  </p>
+         <p>At Evensong there was but a moderate congregation; I preached another old sermon: the subject was the Christian Ministry.  Offertory &#x00A3;5.12.4.  </p>
+         <p><persName id="307">Herbert Cox</persName>, <persName id="293">Edwin</persName>, <persName id="113">Harold</persName>, <persName id="554">Gilbert</persName>, &amp; <persName id="467">Chart</persName> came to supper.</p>
+         <p>
+            
+         </p>
+         </body></text>

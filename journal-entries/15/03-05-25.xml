@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[194]</hi>
+         </p>
+         <p>
+<hi rend="bold">Monday, May 25</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1903.</hi>
+         </p>
+         <p>I went into the City, &amp; <listEvent><event xml:id="161">preached</event></listEvent> at <orgName xml:id="39">S. Stephen's Walbrook</orgName>, <hi rend="bold underline">the annual sermon of the <orgName xml:id="38">Churchmen's Union</orgName></hi>. There was a fair congregation, presumably composed of members of the Union. After preaching, I lunched with old <persName xml:id="396">D<hi rend="superscript underline">r</hi> White</persName>, the Rector of <orgName xml:id="40">S. Mary, Aldermanbury</orgName>.  He shewed me his church built by <persName xml:id="397" display="no">Wren</persName>, a very fine work.  Then I attended a meeting in the <placeName xml:id="13">Church House</placeName> of the said Union.  <persName xml:id="398">Morrison</persName> was in the Chair: <persName xml:id="399">Lord Avebury</persName>, <persName xml:id="400">Sir M. Grant Duff</persName>, <persName xml:id="401">Sir Edward Russell</persName>, &amp; <persName xml:id="402">Percy Gardner</persName> were the principal speakers.  I spoke briefly.</p>
+         <p>After dinner I had 17 communicant boys together, talked to them about the <orgName xml:id="41">Guild of Perseverance</orgName>, &amp; gave them supper.</p>
+         </body></text></TEI>

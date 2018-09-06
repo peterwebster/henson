@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[198]</hi>
+         </p>
+         <p>
+<hi rend="bold">Monday June 8</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1903.</hi>
+         </p>
+         <p>Letters written to -:</p>
+         <list type="unordered">
+            <item><persName xml:id="251">C. Grant Robertson Esq.</persName></item>
+            <item><persName xml:id="403">Professor Dicey</persName>.</item>
+            <item><persName xml:id="405">Maj. Gen. Shaw Stewart</persName>.</item>
+            <item><persName xml:id="77">Miss Henson</persName>.</item>
+            <item><persName xml:id="208">Canon Beeching</persName>.</item>
+            <item><persName xml:id="406">Gerald Christy</persName></item>
+            <item><persName xml:id="407">Hon &amp; Rev. J. S. Northcote</persName></item>
+            <item><persName xml:id="408">Samuel Smith Esq. M.P.</persName></item>
+            <item><persName xml:id="409">Ernest Guinness, Esq.</persName></item>
+            <item><persName xml:id="410">Rev. F. S. Denman</persName></item>
+         </list>
+         <p>
+<hi rend="bold underline">A letter headed <ref xml:id="17">‘the High-Churchmen's Declaration'</ref> appeared in the Times from me</hi><hi rend="bold">.</hi>  Also, but in small type, a <ref xml:id="302" display="no">Low-Church declaration</ref> signed by the Deans of <persName xml:id="212">Canterbury</persName>, <persName xml:id="411">Norwich</persName>, &amp; <persName xml:id="285">Peterboro</persName>, &amp; others.</p>
+         <p>
+            
+         </p>
+         </body></text></TEI>

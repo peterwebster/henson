@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[110]</hi>
+         </p>
+         <p>
+<hi rend="bold">Thursday, October 29</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1902.</hi>
+         </p>
+         <p><placeName xml:id="10">Jerusalem Chamber</placeName> after he had been duly placed in his seat, the <persName xml:id="44">Dean</persName> made a statement as to his intentions on certain points.</p>
+         <list type="ordered">
+            <item>He would adopt the Eastward position, as had been his practice while Canon.</item>
+            <item>He would order the lectern to be made reversible so that the Canons might read the R.V. if they so desired.</item>
+            <item>He would relieve the Canons on Sunday mornings for reasonable cause, but not during the week.</item>
+         </list>
+         <p>All this seems to me excellent.</p>
+         <p>
+<hi rend="bold">[111]</hi>
+         </p>
+         <p>Copies of <ref xml:id="13">"Preaching to the Times"</ref> have been sent to:-</p>
+         <list type="unordered">
+            <item><persName xml:id="216">Gow</persName></item>
+            <item><persName xml:id="109">The Archdeacon</persName></item>
+            <item><persName xml:id="76">Carissima</persName></item>
+            <item><persName xml:id="77">Marion</persName></item>
+            <item><persName xml:id="300">Ellison</persName></item>
+            <item><persName xml:id="62">Kirshbaum</persName></item>
+            <item><persName xml:id="301">Burrows</persName></item>
+            <item><persName xml:id="302">Miss Anson</persName></item>
+            <item><persName xml:id="303" display="no">Ryder</persName></item>
+            <item>Auntie</item>
+            <item><persName xml:id="202">Eyre</persName></item>
+            <item><persName xml:id="211">Woolcombe</persName></item>
+            <item><persName xml:id="59">Gerald</persName></item>
+            <item><persName xml:id="304" display="no">Cox</persName></item>
+            <item><persName xml:id="65">Thesiger</persName></item>
+            <item><persName xml:id="305">Gilbert</persName></item>
+		</list>
+         <p>
+            
+         </p>
+         </body></text></TEI>

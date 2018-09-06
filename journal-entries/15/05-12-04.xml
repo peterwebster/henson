@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[463]</hi>
+         </p>
+         <p>Clergymen who have preached in Scottish Churches maugre the Bishops</p>
+         <p>___________________________________________________________________________</p>
+         <list type="ordered">
+            <item><persName xml:id="506">Archbishop Tait</persName></item>
+            <item><persName xml:id="507">Bishop S. Wilberforce</persName></item>
+            <item><persName xml:id="505">Dean Stanley</persName></item>
+            <item><persName xml:id="99">Dean Bradley</persName></item>
+            <item><persName xml:id="103">Canon Ainger</persName></item>
+            <item>Canon Hensley Henson</item>
+         </list>
+         <p>
+<hi rend="italic bold underline">On Monday Dec. 4</hi><hi rend="i bold superscript underline">th</hi><hi rend="italic bold underline"> 1905 <persName xml:id="508">Mr Balfour</persName> resigned the Premiership.</hi>  <hi rend="italic">The <persName xml:id="928" display="no">King</persName> sent for <persName xml:id="509">Sir Henry Campbell Bannerman</persName>, who accepted the task of forming a Ministry on Tuesday Dec. 5</hi><hi rend="i superscript underline">th</hi><hi rend="italic">.</hi>  <hi rend="italic">The same day a part of Charing Cross Station fell, killing 7 workmen, &amp; wounding 25 persons.</hi>
+         </p>
+      </body>
+   </text></TEI>
+
