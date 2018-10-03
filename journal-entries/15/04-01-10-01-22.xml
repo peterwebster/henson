@@ -13,55 +13,55 @@
                <cell/>
             </row>
             <row>
-               <cell><persName id="222">Albert "</persName></cell>
+               <cell><persName xml:id="222">Albert "</persName></cell>
                <cell>Six of them came from an</cell>
             </row>
             <row>
-               <cell><persName id="514">George Bates</persName> </cell>
+               <cell><persName xml:id="514">George Bates</persName> </cell>
                <cell>inconvenient distance, and</cell>
             </row>
             <row>
-               <cell><persName id="479">Henry Freeman</persName></cell>
+               <cell><persName xml:id="479">Henry Freeman</persName></cell>
                <cell>had breakfast after service</cell>
             </row>
             <row>
-               <cell><persName id="515">Victor Broughton</persName></cell>
+               <cell><persName xml:id="515">Victor Broughton</persName></cell>
                <cell>at the Rectory.</cell>
             </row>
             <row>
-               <cell>[symbol] <persName id="113">Harold Knowling</persName></cell>
+               <cell>[symbol] <persName xml:id="113">Harold Knowling</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="484">Willie White</persName></cell>
+               <cell><persName xml:id="484">Willie White</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="485">Fred. Tisdall</persName></cell>
+               <cell><persName xml:id="485">Fred. Tisdall</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="516">Albert Parkhouse</persName></cell>
+               <cell><persName xml:id="516">Albert Parkhouse</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="481">Robert Stephens</persName></cell>
+               <cell><persName xml:id="481">Robert Stephens</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="517">Willie Deazley</persName></cell>
+               <cell><persName xml:id="517">Willie Deazley</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="480">Fred. Brice</persName></cell>
+               <cell><persName xml:id="480">Fred. Brice</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="518">Ernest Fontaine</persName></cell>
+               <cell><persName xml:id="518">Ernest Fontaine</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="519">Jack Savigar</persName></cell>
+               <cell><persName xml:id="519">Jack Savigar</persName></cell>
                <cell/>
             </row>
          </table>
