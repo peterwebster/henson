@@ -64,18 +64,14 @@
             </row>
             <row>
                <cell rend="No_Spacing"/>
-               <cell rend="No_Spacing">
-<hi rend="underline">3.10½</hi>
-               </cell>
+               <cell rend="No_Spacing"><hi rend="underline">3.10½</hi></cell>
             </row>
-            <row>
-               <cell rend="No_Spacing">Cards &amp;c</cell>
-               <cell rend="No_Spacing">£50.6.11</cell>
-            </row>
-         </table>
-         <table rend="rules">
             <row>
                <cell rend="No_Spacing"/>
+               <cell rend="No_Spacing">£50.6.11</cell>
+            </row>
+            <row>
+               cell rend="No_Spacing">Cards &amp;c</cell>
                <cell rend="No_Spacing">43.</cell>
             </row>
             <row>
