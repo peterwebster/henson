@@ -98,10 +98,10 @@
                <cell/>
             </row>
             <row>
-               <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName xml:id="524">Hermine Cornelia Alice Buysman</persName></item>
-                  </list>
+               <cell>
+                  
+                     <persName xml:id="524">Hermine Cornelia Alice Buysman</persName>
+                  
                   <p rend="List Paragraph">born Aug. 27<hi rend="sup u">th</hi> 1886</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
                   <list type="ordered">
