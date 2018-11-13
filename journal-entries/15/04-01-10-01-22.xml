@@ -65,7 +65,7 @@
                <cell/>
             </row>
          </table>
-         <p><persName xml:id="520">Oxford</persName> &amp; his <persName xml:id="521">daughter</persName> came to lunch. He is a strange creature full of odd jerky moralities which come into sight like the red rocks of Swedish cities where you least expect them: but I think him sincere, &amp; like him.  He described an amazing old antiquary of his acquaintance, name <persName xml:id="522">Drane</persName> (?Drain), resident in Cardiff. This man possesses seven ‘pomanders', <hi rend="b">[275]</hi> [symbol] and a 14<hi rend="sup doubleunderline">th</hi> century chalice, (which he had been vainly appealed to to restore,).  He entertains his gossips with rare old Tokay, &amp; Malmsey, imports his own tea from Shanghai, where it costs him 7/6 per lb, spends his leisure in watching the habits of birds on the western Irish coasts, and (to crown all) has domesticated hares into astonishing friendliness &amp; intelligence.  Oxford describes him as wealthy &amp; cynical: an agnostic in creed.  He plies the profession of a chemist with considerable distinction, &amp; is now 69 years old.</p>
+         <p><persName xml:id="520">Oxford</persName> &amp; his <persName xml:id="521" display="no">daughter</persName> came to lunch. He is a strange creature full of odd jerky moralities which come into sight like the red rocks of Swedish cities where you least expect them: but I think him sincere, &amp; like him.  He described an amazing old antiquary of his acquaintance, name <persName xml:id="522">Drane</persName> (?Drain), resident in Cardiff. This man possesses seven ‘pomanders', <hi rend="b">[275]</hi> [symbol] and a 14<hi rend="sup doubleunderline">th</hi> century chalice, (which he had been vainly appealed to to restore,).  He entertains his gossips with rare old Tokay, &amp; Malmsey, imports his own tea from Shanghai, where it costs him 7/6 per lb, spends his leisure in watching the habits of birds on the western Irish coasts, and (to crown all) has domesticated hares into astonishing friendliness &amp; intelligence.  Oxford describes him as wealthy &amp; cynical: an agnostic in creed.  He plies the profession of a chemist with considerable distinction, &amp; is now 69 years old.</p>
          <p>Rain fell during the afternoon, and the evening was deterrently damp. The congregation in <orgName xml:id="16">S. Margaret's</orgName> was not large, &amp; the Offertory only: £3.0.6.</p>
          <p>I wrote to <persName xml:id="14">Raleigh</persName>.</p>
          <p>
@@ -89,7 +89,7 @@
                <cell rend="List_Paragraph">
                   <list type="ordered">
                      <item>
-<hi rend="strikethrough"><persName xml:id="523">Florence Marion Wicks</persName></hi>
+<hi rend="strikethrough"><persName xml:id="523" display="no">Florence Marion Wicks</persName></hi>
                      </item>
                   </list>
                   <p rend="List Paragraph">born Aug. 28<hi rend="sup u">th</hi> 1887</p>
@@ -100,12 +100,12 @@
             <row>
                <cell>
                   
-                     <persName xml:id="524">Hermine Cornelia Alice Buysman</persName>
+                     <persName xml:id="524" display="no">Hermine Cornelia Alice Buysman</persName>
                   
                   <p rend="List Paragraph">born Aug. 27<hi rend="sup u">th</hi> 1886</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
                   <list type="ordered">
-                     <item><persName xml:id="525">Grace Beatrice Anne Buysman</persName></item>
+                     <item><persName xml:id="525" display="no">Grace Beatrice Anne Buysman</persName></item>
                   </list>
                   <p rend="List Paragraph">born April 2<hi rend="sup u">nd</hi> 1885</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
@@ -121,7 +121,7 @@
             <row>
                <cell rend="List_Paragraph">
                   <list type="ordered">
-                     <item><persName xml:id="527">Gladys Dora Wright</persName></item>
+                     <item><persName xml:id="527" display="no">Gladys Dora Wright</persName></item>
                   </list>
                   <p rend="List Paragraph">born April 19. 1888</p>
                   <p>	baptized</p>
@@ -131,7 +131,7 @@
             <row>
                <cell rend="List_Paragraph">
                   <list type="ordered">
-                     <item><persName xml:id="528">Margaret Brodie</persName></item>
+                     <item><persName xml:id="528" display="no">Margaret Brodie</persName></item>
                   </list>
                   <p rend="List Paragraph">born June 30<hi rend="sup u">th</hi> 1883</p>
                   <p rend="List Paragraph">baptized</p>
@@ -144,7 +144,7 @@
             <row>
                <cell rend="List_Paragraph">
                   <list type="ordered">
-                     <item><persName xml:id="529">Gladwyn Lesley May Aman</persName> [symbol]</item>
+                     <item><persName xml:id="529" display="no">Gladwyn Lesley May Aman</persName> [symbol]</item>
                   </list>
                   <p rend="List Paragraph">born June 8<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized Runcorn Parish Church</p>
@@ -154,7 +154,7 @@
             <row>
                <cell rend="List_Paragraph">
                   <list type="ordered">
-                     <item><persName xml:id="530">Ethel Noel West</persName></item>
+                     <item><persName xml:id="530" display="no">Ethel Noel West</persName></item>
                   </list>
                   <p rend="List Paragraph">born Nov 25<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized Valparaiso, Chile. </p>
