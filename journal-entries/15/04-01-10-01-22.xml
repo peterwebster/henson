@@ -25,7 +25,7 @@
                <cell>had breakfast after service</cell>
             </row>
             <row>
-               <cell><persName xml:id="515">Victor Broughton</persName></cell>
+               <cell><persName xml:id="515" display="no">Victor Broughton</persName></cell>
                <cell>at the Rectory.</cell>
             </row>
             <row>
@@ -49,7 +49,7 @@
                <cell/>
             </row>
             <row>
-               <cell><persName xml:id="517">Willie Deazley</persName></cell>
+               <cell><persName xml:id="517" display="no">Willie Deazley</persName></cell>
                <cell/>
             </row>
             <row>
@@ -61,7 +61,7 @@
                <cell/>
             </row>
             <row>
-               <cell><persName xml:id="519">Jack Savigar</persName></cell>
+               <cell><persName xml:id="519" display="no">Jack Savigar</persName></cell>
                <cell/>
             </row>
          </table>
