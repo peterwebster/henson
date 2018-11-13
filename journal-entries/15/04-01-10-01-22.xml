@@ -100,9 +100,7 @@
                   
                   <p rend="List Paragraph">born Aug. 27<hi rend="sup u">th</hi> 1886</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
-                  <list type="ordered">
                      <item><persName xml:id="525" display="no">Grace Beatrice Anne Buysman</persName></item>
-                  </list>
                   <p rend="List Paragraph">born April 2<hi rend="sup u">nd</hi> 1885</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
                </cell>
@@ -116,9 +114,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item><persName xml:id="527" display="no">Gladys Dora Wright</persName></item>
-                  </list>
                   <p rend="List Paragraph">born April 19. 1888</p>
                   <p>	baptized</p>
                </cell>
@@ -126,9 +122,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item><persName xml:id="528" display="no">Margaret Brodie</persName></item>
-                  </list>
                   <p rend="List Paragraph">born June 30<hi rend="sup u">th</hi> 1883</p>
                   <p rend="List Paragraph">baptized</p>
                </cell>
@@ -139,9 +133,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item><persName xml:id="529" display="no">Gladwyn Lesley May Aman</persName> [symbol]</item>
-                  </list>
                   <p rend="List Paragraph">born June 8<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized Runcorn Parish Church</p>
                </cell>
@@ -149,9 +141,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item><persName xml:id="530" display="no">Ethel Noel West</persName></item>
-                  </list>
                   <p rend="List Paragraph">born Nov 25<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized Valparaiso, Chile. </p>
                </cell>
