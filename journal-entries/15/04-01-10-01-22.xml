@@ -77,9 +77,7 @@
          <table rend="rules">
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item><persName xml:id="499">Irene Violet Meiklejohn</persName> [symbol]</item>
-                  </list>
                   <p rend="List Paragraph">born July 23<hi rend="sup u">rd</hi> 1888</p>
                   <p rend="List Paragraph">baptized in Cathedral at Perth</p>
                </cell>
@@ -87,11 +85,9 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item>
 <hi rend="strikethrough"><persName xml:id="523" display="no">Florence Marion Wicks</persName></hi>
                      </item>
-                  </list>
                   <p rend="List Paragraph">born Aug. 28<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized</p>
                </cell>
