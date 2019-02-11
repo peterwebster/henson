@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[125]</hi>
+         </p>
+         <p>
+<hi rend="bold">16</hi><hi rend="bold superscript underline">th</hi><hi rend="bold"> Sunday after Trinity, September 30</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1906.</hi>
+         </p>
+         <p>A perfect autumnal day, only a little too warm. <persName xml:id="1124">Canon Bigg</persName> preached at 10 a.m. on the episode in S. John iv. &#8211; a charming &amp; characteristic sermon. I celebrated, and, as it was the first Sunday in term, the <orgName xml:id="31">Westminster</orgName> Boys received the Communion &#8211; a profoundly moving and consolatory spectacle. The <persName xml:id="296">Sub&#8211;Dean</persName> came to lunch.</p>
+         <p>In the afternoon I preached on behalf of the <orgName xml:id="75">Society for the Prevention of Cruelty to Children</orgName>. There was a very large congregation, and I begged with all my might, but the offertory only amounted to &#x00A3;27.</p>
+         <p><orgName xml:id="77">The <hi rend="bold underline">Church Congress</hi></orgName> held its sessions at Barrow&#8211;in&#8211;Furness in the first week of October.  I had undertaken to read a paper on <listEvent><event xml:id="37">'The Training of the Clergy in Reading &amp; Preaching'</event></listEvent> but I cried off on the score of my throat, and <hi rend="bold underline">my paper was read for me by <persName xml:id="208">Beeching</persName>.</hi>
+         </p>
+         <p>
+<hi rend="bold">[126]</hi></p>
+         <p>
+<hi rend="underline">Books purchased in September:</hi>
+         </p>
+         <list type="ordered">
+            <item><ref xml:id="126">The History of English Rationalism in the 19<hi rend="superscript underline">th</hi> Century</ref> by A. W. Benn. Longman's. 1906.  2 vols.</item>
+            <item><ref xml:id="127">The Apocalypse of S<hi rend="superscript underline">t</hi> John</ref>.  Swete.</item>
+            <item><ref xml:id="128">Epistle to the Ephesians.</ref> <persName xml:id="1047">Westcott</persName>.</item>
+            <item><ref xml:id="129">Lectures on Modern History.</ref> <persName xml:id="1125">Lord Acton</persName>.</item>
+            <item><ref xml:id="130">Knox's History of the Reformation of Religion in Scotland</ref>. 20<hi rend="superscript underline">th</hi> century ed<hi rend="superscript underline">n</hi> edited by Cuthbert Lennox.</item>
+            <item><ref xml:id="131">Sketch of the Denominations of the Christian World</ref>, by John Evans. 1811</item>
+         </list>
+         <p>
+<hi rend="underline">Books purchased in October</hi>
+         </p>
+         <list type="ordered">
+            <item><ref xml:id="132">The Life of Benvenuto Cellini</ref>. Translated J. A. Symonds.</item>
+            <item><ref xml:id="133">Fawcett's Abridgement of the Saints Everlasting Rest</ref>.</item>
+            <item><ref xml:id="134">Calamy's Nonconformist Memorial</ref>, abridged by Palmer. 3 vols.</item>
+            <item><persName xml:id="1126">Frazer's</persName> <ref xml:id="135">Adonis, Attis, Osiris</ref>.</item>
+            <item><ref xml:id="136">Lord Acton &amp; his Circle</ref>.</item>
+            <item>Fairley's <ref xml:id="137">Epitaphiana</ref>.</item>
+            <item><persName xml:id="192">Rosebery's</persName> <ref xml:id="138">Lord Randolph Churchill</ref>.</item>
+            <item>Earle's <ref xml:id="139">Microcosmography</ref>.</item>
+         </list>
+         <p>
+            
+         </p>
+         </body></text></TEI>

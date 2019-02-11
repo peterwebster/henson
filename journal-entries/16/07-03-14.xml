@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p> 
+<hi rend="bold">[191]</hi>
+         </p>
+         <p>
+<hi rend="bold">Thursday, March 14</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1907.</hi>
+         </p>
+         <p><persName xml:id="208">Beeching</persName> and I travelled together to Oxford, &amp; voted for <persName xml:id="1018">Curzon</persName> as 'our honoured Lord and Chancellor'.  The poll was not a large one, &amp; there was no excitement.  <persName xml:id="292">Rosebery</persName> was well beaten, the figures being                                              </p>
+         <list type="unordered">
+            <item>Curzon 1110                                             </item>
+            <item>Rosebery 430</item>
+         </list>
+         <p>Afterwards we dined pleasantly in <orgName xml:id="7" display="no">All Souls</orgName>: &amp; then returned to town.  <hi rend="bold underline"><persName xml:id="427">Inge</persName> joined us at the station: he had been voting for Rosebery.</hi> 
+         </p>
+         <p><persName xml:id="117">Rashdall</persName> is said to have voted for Curzon by mistake.</p>
+         <table rend="rules">
+            <row>
+               <cell rend="Normal"/>
+               <cell rend="Normal"/>
+               <cell rend="Normal">&#x00A3;39.</cell>
+               <cell rend="Normal">17.</cell>
+               <cell rend="Normal">0</cell>
+            </row>
+            <row>
+               <cell rend="Normal">30.</cell>
+               <cell rend="Normal">Stamps</cell>
+               <cell rend="Normal">.</cell>
+               <cell rend="Normal">5.</cell>
+               <cell rend="Normal"/>
+            </row>
+            <row>
+               <cell rend="Normal">31.</cell>
+               <cell rend="Normal">Offertory</cell>
+               <cell rend="Normal">.</cell>
+               <cell rend="Normal">1.</cell>
+               <cell rend="Normal"/>
+            </row>
+            <row>
+               <cell rend="Normal"/>
+               <cell rend="Normal">Prizes for the </cell>
+               <cell rend="Normal">.</cell>
+               <cell rend="Normal">13.</cell>
+               <cell rend="Normal"/>
+            </row>
+            <row>
+               <cell rend="Normal"/>
+               <cell rend="Normal">Abbey Choir</cell>
+               <cell rend="Normal"/>
+               <cell rend="Normal"/>
+               <cell rend="Normal"/>
+            </row>
+            <row>
+               <cell rend="Normal"/>
+               <cell rend="Normal">Newspapers </cell>
+               <cell rend="Normal">
+<hi rend="underline">.</hi>
+               </cell>
+               <cell rend="Normal">
+<hi rend="underline">.</hi>
+               </cell>
+               <cell rend="Normal">
+<hi rend="underline">6</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="Normal"/>
+               <cell rend="Normal"/>
+               <cell rend="Normal">&#x00A3;40.</cell>
+               <cell rend="Normal">16.</cell>
+               <cell rend="Normal">6</cell>
+            </row>
+         </table>
+         <p>
+            
+         </p>
+         </body></text></TEI>
