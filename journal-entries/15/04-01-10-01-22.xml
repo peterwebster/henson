@@ -9,65 +9,65 @@
          <p>The special celebration of Holy Communion at 9 a.m. was attended by 14 chancellors, viz.</p>
          <table rend="rules">
             <row>
-               <cell><persName id="293">Edwin Saxton</persName></cell>
+               <cell><persName xml:id="293">Edwin Saxton</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="222">Albert "</persName></cell>
+               <cell><persName xml:id="222">Albert "</persName></cell>
                <cell>Six of them came from an</cell>
             </row>
             <row>
-               <cell><persName id="514">George Bates</persName> </cell>
+               <cell><persName xml:id="514" display="no">George Bates</persName> </cell>
                <cell>inconvenient distance, and</cell>
             </row>
             <row>
-               <cell><persName id="479">Henry Freeman</persName></cell>
+               <cell><persName xml:id="479">Henry Freeman</persName></cell>
                <cell>had breakfast after service</cell>
             </row>
             <row>
-               <cell><persName id="515">Victor Broughton</persName></cell>
+               <cell><persName xml:id="515" display="no">Victor Broughton</persName></cell>
                <cell>at the Rectory.</cell>
             </row>
             <row>
-               <cell>[symbol] <persName id="113">Harold Knowling</persName></cell>
+               <cell>[symbol] <persName xml:id="113">Harold Knowling</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="484">Willie White</persName></cell>
+               <cell><persName xml:id="484">Willie White</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="485">Fred. Tisdall</persName></cell>
+               <cell><persName xml:id="485">Fred. Tisdall</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="516">Albert Parkhouse</persName></cell>
+               <cell><persName xml:id="516">Albert Parkhouse</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="481">Robert Stephens</persName></cell>
+               <cell><persName xml:id="481">Robert Stephens</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="517">Willie Deazley</persName></cell>
+               <cell><persName xml:id="517" display="no">Willie Deazley</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="480">Fred. Brice</persName></cell>
+               <cell><persName xml:id="480">Fred. Brice</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="518">Ernest Fontaine</persName></cell>
+               <cell><persName xml:id="518">Ernest Fontaine</persName></cell>
                <cell/>
             </row>
             <row>
-               <cell><persName id="519">Jack Savigar</persName></cell>
+               <cell><persName xml:id="519" display="no">Jack Savigar</persName></cell>
                <cell/>
             </row>
          </table>
-         <p><persName id="520">Oxford</persName> & his <persName id="521">daughter</persName> came to lunch. He is a strange creature full of odd jerky moralities which come into sight like the red rocks of Swedish cities where you least expect them: but I think him sincere, & like him.  He described an amazing old antiquary of his acquaintance, name <persName id="522">Drane</persName> (?Drain), resident in Cardiff. This man possesses seven ‘pomanders', <hi rend="b">[275]</hi> [symbol] and a 14<hi rend="sup doubleunderline">th</hi> century chalice, (which he had been vainly appealed to to restore,).  He entertains his gossips with rare old Tokay, & Malmsey, imports his own tea from Shanghai, where it costs him 7/6 per lb, spends his leisure in watching the habits of birds on the western Irish coasts, and (to crown all) has domesticated hares into astonishing friendliness & intelligence.  Oxford describes him as wealthy & cynical: an agnostic in creed.  He plies the profession of a chemist with considerable distinction, & is now 69 years old.</p>
-         <p>Rain fell during the afternoon, and the evening was deterrently damp. The congregation in <orgName id="16">S. Margaret's</orgName> was not large, & the Offertory only: £3.0.6.</p>
-         <p>I wrote to <persName id="14">Raleigh</persName>.</p>
+         <p><persName xml:id="520">Oxford</persName> &amp; his <persName xml:id="521" display="no">daughter</persName> came to lunch. He is a strange creature full of odd jerky moralities which come into sight like the red rocks of Swedish cities where you least expect them: but I think him sincere, &amp; like him.  He described an amazing old antiquary of his acquaintance, name <persName xml:id="522">Drane</persName> (?Drain), resident in Cardiff. This man possesses seven ‘pomanders', <hi rend="b">[275]</hi> [symbol] and a 14<hi rend="sup doubleunderline">th</hi> century chalice, (which he had been vainly appealed to to restore,).  He entertains his gossips with rare old Tokay, &amp; Malmsey, imports his own tea from Shanghai, where it costs him 7/6 per lb, spends his leisure in watching the habits of birds on the western Irish coasts, and (to crown all) has domesticated hares into astonishing friendliness &amp; intelligence.  Oxford describes him as wealthy &amp; cynical: an agnostic in creed.  He plies the profession of a chemist with considerable distinction, &amp; is now 69 years old.</p>
+         <p>Rain fell during the afternoon, and the evening was deterrently damp. The congregation in <orgName xml:id="16">S. Margaret's</orgName> was not large, &amp; the Offertory only: £3.0.6.</p>
+         <p>I wrote to <persName xml:id="14">Raleigh</persName>.</p>
          <p>
 <hi rend="b">[276]</hi>
          </p>
@@ -77,9 +77,7 @@
          <table rend="rules">
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName id="499">Irene Violet Meiklejohn</persName> [symbol]</item>
-                  </list>
+                     <item><persName xml:id="499">Irene Violet Meiklejohn</persName> [symbol]</item>
                   <p rend="List Paragraph">born July 23<hi rend="sup u">rd</hi> 1888</p>
                   <p rend="List Paragraph">baptized in Cathedral at Perth</p>
                </cell>
@@ -87,26 +85,20 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
                      <item>
-<hi rend="strikethrough"><persName id="523">Florence Marion Wicks</persName></hi>
+<hi rend="strikethrough"><persName xml:id="523" display="no">Florence Marion Wicks</persName></hi>
                      </item>
-                  </list>
                   <p rend="List Paragraph">born Aug. 28<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized</p>
                </cell>
                <cell/>
             </row>
             <row>
-               <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName id="524">Hermine Cornelia Alice Buysman</persName></item>
-                  </list>
+               <cell>
+                     <item><persName xml:id="524" display="no">Hermine Cornelia Alice Buysman</persName></item>
                   <p rend="List Paragraph">born Aug. 27<hi rend="sup u">th</hi> 1886</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
-                  <list type="ordered">
-                     <item><persName id="525">Grace Beatrice Anne Buysman</persName></item>
-                  </list>
+                     <item><persName xml:id="525" display="no">Grace Beatrice Anne Buysman</persName></item>
                   <p rend="List Paragraph">born April 2<hi rend="sup u">nd</hi> 1885</p>
                   <p rend="List Paragraph">baptized S. Matthew's, Brixton</p>
                </cell>
@@ -120,9 +112,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName id="527">Gladys Dora Wright</persName></item>
-                  </list>
+                     <item><persName xml:id="527" display="no">Gladys Dora Wright</persName></item>
                   <p rend="List Paragraph">born April 19. 1888</p>
                   <p>	baptized</p>
                </cell>
@@ -130,9 +120,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName id="528">Margaret Brodie</persName></item>
-                  </list>
+                     <item><persName xml:id="528" display="no">Margaret Brodie</persName></item>
                   <p rend="List Paragraph">born June 30<hi rend="sup u">th</hi> 1883</p>
                   <p rend="List Paragraph">baptized</p>
                </cell>
@@ -143,9 +131,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName id="529">Gladwyn Lesley May Aman</persName> [symbol]</item>
-                  </list>
+                     <item><persName xml:id="529" display="no">Gladwyn Lesley May Aman</persName> [symbol]</item>
                   <p rend="List Paragraph">born June 8<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized Runcorn Parish Church</p>
                </cell>
@@ -153,9 +139,7 @@
             </row>
             <row>
                <cell rend="List_Paragraph">
-                  <list type="ordered">
-                     <item><persName id="530">Ethel Noel West</persName></item>
-                  </list>
+                     <item><persName xml:id="530" display="no">Ethel Noel West</persName></item>
                   <p rend="List Paragraph">born Nov 25<hi rend="sup u">th</hi> 1887</p>
                   <p rend="List Paragraph">baptized Valparaiso, Chile. </p>
                </cell>
@@ -169,10 +153,10 @@
 <hi rend="b">[277]</hi> 
          </p>
          <p>[symbol]</p>
-         <p>To the Rev. <persName id="531">G. Margoliouth</persName></p><div type="letter">
+         <p>To the Rev. <persName xml:id="531">G. Margoliouth</persName></p><div type="letter">
          <p>[symbol] Jan. 12<hi rend="sup u">th</hi>. 1904</p>
          <p>Dear Mr. Margoliouth</p>
-         <p>I ought to have acknowledged before your letter of 9<hi rend="sup u">th</hi> inst. with the spirit and purpose of which, it hardly needs saying that I am altogether in sympathy.  The twin rocks on which such projects as yours seem almost always to go to pieces are, as I see the facts, these. Either they become an affair of academic specialists, who have neither the will nor the power to bring their conclusions to bear on the current faith and teaching of the Church: or they become an interest of partisans, who carry the prestige of science to the aid of bigotry.  A notable example of the latter is provided in the Church History Society, originally started, I think, by <persName id="118">Bishop Creighton</persName>, with the most admirable professions of intellectual rectitude and scientific purpose, but which, almost from the first, has come to be nothing more than another instrument for the propagation of the Anglican legend, which the bishops agree to accept as history. The country has been flooded with papers and pamphlets, varying greatly in value, but all directed with extraordinary skill to the single object of glorifying Anglicanism.</p>
+         <p>I ought to have acknowledged before your letter of 9<hi rend="sup u">th</hi> inst. with the spirit and purpose of which, it hardly needs saying that I am altogether in sympathy.  The twin rocks on which such projects as yours seem almost always to go to pieces are, as I see the facts, these. Either they become an affair of academic specialists, who have neither the will nor the power to bring their conclusions to bear on the current faith and teaching of the Church: or they become an interest of partisans, who carry the prestige of science to the aid of bigotry.  A notable example of the latter is provided in the Church History Society, originally started, I think, by <persName xml:id="118">Bishop Creighton</persName>, with the most admirable professions of intellectual rectitude and scientific purpose, but which, almost from the first, has come to be nothing more than another instrument for the propagation of the Anglican legend, which the bishops agree to accept as history. The country has been flooded with papers and pamphlets, varying greatly in value, but all directed with extraordinary skill to the single object of glorifying Anglicanism.</p>
          <p>
 <hi rend="b">[278]</hi>
          </p>
@@ -185,11 +169,11 @@
 <hi rend="b">[279]</hi> 
          </p>
          <p>[symbol] [symbol]</p>
-         <p>To the Vice-Chancellor of Cambridge (<persName id="532">D<hi rend="sup u">r</hi> Chase</persName>)</p><div type="letter">
+         <p>To the Vice-Chancellor of Cambridge (<persName xml:id="532">D<hi rend="sup u">r</hi> Chase</persName>)</p><div type="letter">
          <p>Janr<hi rend="sup u">y</hi> 14<hi rend="sup">th</hi> 1904</p>
          <p>My dear M<hi rend="sup u">r</hi> Vice-Chancellor,</p>
-         <p>Thank you much for your kind letter, all the kinder in my view for its frankness. You will understand that in inflicting another letter on you, I am influenced by the deep sense I have of the importance of minimizing misconception between those who stand for theological liberty.  You must remember the purpose of my preaching on Dec: 20, & the circumstances. Rightly or wrongly I held it to be of quite cardinal importance that <persName id="49">Gore</persName>'s procedure sh<hi rend="sup u">d</hi> be met with a prompt & emphatic disclaimer, which should arrest public attention.  I did not mean by the phrases you deprecate, to stigmatize the Bishop's belief, or even his opinion of <persName id="496">Mr. Beeby</persName>'s belief but <hi rend="b u">his actual course in coercing into a resignation, not by process of law, not by power of argument, not even by persuasion, but by a distinct appeal to the unreflecting orthodoxy of the public.</hi>  <hi rend="u">That </hi>is a procedure which at all hazards must be resisted.  If, first, the liberal clergy are to be evicted by insult & clamour from their offices, & <hi rend="u">then</hi>, - when they are out of the way - the doctrinal discussion is to be undertaken, there is no need to be in doubt as to its outcome. And this is really the present danger. I regret intensely that <persName id="246">Freemantle</persName> & Beeby should have raised the question of the Virgin Birth: <hi rend="b">[280]</hi> the ultimate issues at stake could much better have been fought on another matter, not so delicate in itself, or so entrenched in Christian sentiment, or so extraordinarily difficult to discuss.  But if we stand <hi rend="i">by & suffer a masterful bishop (with a large dose of the fanatic in him) to force a conclusion by the obvious & brutal method of boycotting & insulting the advocates of liberty, we shall richly deserve the fate which in good time will come upon ourselves</hi>.  The sermon has not been published, having served its purpose of directing general attention to Gore's action. I am all for cautious, temperate, searching, & honest discussion, but such is wholly precluded, if one side must discuss with a halter round its neck.</p>
-         <p>Forgive all this, & believe me,</p>
+         <p>Thank you much for your kind letter, all the kinder in my view for its frankness. You will understand that in inflicting another letter on you, I am influenced by the deep sense I have of the importance of minimizing misconception between those who stand for theological liberty.  You must remember the purpose of my preaching on Dec: 20, &amp; the circumstances. Rightly or wrongly I held it to be of quite cardinal importance that <persName xml:id="49">Gore's</persName> procedure sh<hi rend="sup u">d</hi> be met with a prompt &amp; emphatic disclaimer, which should arrest public attention.  I did not mean by the phrases you deprecate, to stigmatize the Bishop's belief, or even his opinion of <persName xml:id="496">Mr. Beeby's</persName> belief but <hi rend="b u">his actual course in coercing into a resignation, not by process of law, not by power of argument, not even by persuasion, but by a distinct appeal to the unreflecting orthodoxy of the public.</hi>  <hi rend="u">That </hi>is a procedure which at all hazards must be resisted.  If, first, the liberal clergy are to be evicted by insult &amp; clamour from their offices, &amp; <hi rend="u">then</hi>, - when they are out of the way - the doctrinal discussion is to be undertaken, there is no need to be in doubt as to its outcome. And this is really the present danger. I regret intensely that <persName xml:id="246">Freemantle</persName> &amp; Beeby should have raised the question of the Virgin Birth: <hi rend="b">[280]</hi> the ultimate issues at stake could much better have been fought on another matter, not so delicate in itself, or so entrenched in Christian sentiment, or so extraordinarily difficult to discuss.  But if we stand <hi rend="i">by &amp; suffer a masterful bishop (with a large dose of the fanatic in him) to force a conclusion by the obvious &amp; brutal method of boycotting &amp; insulting the advocates of liberty, we shall richly deserve the fate which in good time will come upon ourselves</hi>.  The sermon has not been published, having served its purpose of directing general attention to Gore's action. I am all for cautious, temperate, searching, &amp; honest discussion, but such is wholly precluded, if one side must discuss with a halter round its neck.</p>
+         <p>Forgive all this, &amp; believe me,</p>
          <p>Sincerely yours.</p>
          <p>H. Hensley Henson</p></div>
          <p>
@@ -199,7 +183,7 @@
             <row>
                <cell/>
                <cell>
-                  <p><persName id="526">Cornelius James Alexander Kelder Buysman</persName></p>
+                  <p><persName xml:id="526" display="no">Cornelius James Alexander Kelder Buysman</persName></p>
                   <p>14 Oct: 17 1903</p>
                   <p>Baptized S. Matthew's, Brixton.</p>
                </cell>
@@ -207,7 +191,7 @@
             <row>
                <cell>[symbol] 9.</cell>
                <cell>
-                  <p><persName id="533">Mary MacSwiney Sinclair</persName> [symbol]</p>
+                  <p><persName xml:id="533" display="no">Mary MacSwiney Sinclair</persName> [symbol]</p>
                   <p>16 Aug. 3. 1904</p>
                   <p>baptized S. Margaret's, Westminster</p>
                </cell>
@@ -215,7 +199,7 @@
             <row>
                <cell>[symbol] 10.</cell>
                <cell>
-                  <p><persName id="534">Edith Mary Sharpe</persName> [symbol]</p>
+                  <p><persName xml:id="534" display="no">Edith Mary Sharpe</persName> [symbol]</p>
                   <p>18 Jan<hi rend="sup u">y</hi> 17. 1905</p>
                   <p>baptized in Hendon (S. John's)</p>
                </cell>
@@ -223,7 +207,7 @@
             <row>
                <cell>11.</cell>
                <cell>
-                  <p><persName id="535">Margaret Christian Anstruther</persName></p>
+                  <p><persName xml:id="535" display="no">Margaret Christian Anstruther</persName></p>
                   <p>17 Aug 16. 1887</p>
                   <p>baptized in S. Columba's, Pont St.</p>
                </cell>
@@ -231,7 +215,7 @@
             <row>
                <cell>12.</cell>
                <cell>
-                  <p><persName id="536">Magdalen Janet Anstruther</persName></p>
+                  <p><persName xml:id="536" display="no">Magdalen Janet Anstruther</persName></p>
                   <p>15 April 19 1889</p>
                   <p>baptized in S. Columba's, Pont St.</p>
                </cell>
