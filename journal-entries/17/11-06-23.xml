@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[232]</hi>
+         </p>
+         <p>
+<hi rend="bold">Friday, June 23</hi><hi rend="bold superscript underline">rd</hi><hi rend="bold">, 1911.</hi>
+         </p>
+         <p>[symbol]</p>
+         <p>The Royal Progress through the streets took place today.  It was very magnificent <hi rend="bold underline">&#8211; the finest show I have ever seen</hi>.  The weather remained fine until everything was well over, &amp; then turned to raining in earnest.</p>
+         <div type="quote">
+         <p>~~"Keep your eyes on the cloud by day and the pillar by night, &amp; never mind your steps.  The direction is the main point."~~</p>
+         <p>
+<persName xml:id="2267"><hi rend="underline">Gen: Gordon</hi></persName> in 1874.</p>
+         <p>(<ref xml:id="357">"Col: Gordon in Central Africa"</ref> p. 16)</p>
+         </div>
+</body></text></TEI>

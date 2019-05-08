@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[216]</hi>
+         </p>
+         <p>
+<hi rend="bold">Monday, May 22</hi><hi rend="bold superscript underline">nd</hi><hi rend="bold">, 1911.</hi>
+         </p>
+         <p>[symbol]</p>
+         <p>Our first Chapter under the new 
+<persName xml:id="325">Dean</persName>.  Very peaceful &amp; human<hi rend="bold underline">: a welcome change</hi>.</p>
+         <p>I wrote a <ref xml:id="380">letter</ref> to the Spectator in answer to a truculent epistle from 
+<persName xml:id="213">Athelstan Riley</persName> on the 
+<orgName xml:id="171" display="no">House of Laymen</orgName>.</p>
+         <p>My 
+<orgName xml:id="169" display="no">Shakspearians</orgName> [sic] held their meeting: 10 were present viz:</p>
+         <list type="ordered">
+            <item>
+<persName xml:id="630">Bob Bineham</persName></item>
+            <item>
+<persName xml:id="826">Ernest Bennett</persName></item>
+            <item>[symbol] 
+<persName xml:id="600">Ernest Rudling</persName></item>
+            <item>[symbol] 
+<persName xml:id="1259">Reggie Still</persName></item>
+            <item>
+<persName xml:id="1681">Cyril Hayward</persName></item>
+            <item>
+<persName xml:id="1682" display="no">Colin Kennedy</persName></item>
+            <item>[symbol] 
+<persName xml:id="554">Gilbert Simpson</persName></item>
+            <item>
+<persName xml:id="1282" display="no">Wilfrid Hill</persName></item>
+            <item>
+<persName xml:id="1676">Noel Masters</persName></item>
+            <item>Armstrong</item>
+         </list>
+         <p>There were absent the following:</p>
+         <list type="ordered">
+            <item>
+<persName xml:id="1613">Leslie Hider</persName></item>
+            <item>
+<persName xml:id="1664">Lionel Box</persName></item>
+            <item>
+<persName xml:id="1463" display="no">George Cook</persName></item>
+            <item>[symbol] 
+<persName xml:id="1687" display="no">Albert Stewart</persName>.</item>
+         </list>
+</body></text></TEI>

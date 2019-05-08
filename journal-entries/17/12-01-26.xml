@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[379]</hi>
+         </p>
+         <p>
+<hi rend="bold">Friday, January 26</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1912.</hi>
+         </p>
+         <p>[symbol]</p>
+         <p>The 
+<orgName xml:id="211">Welsh Disendowment Conference</orgName> met here at 2 p.m. and sat till 6 p.m.<note xml:id="239" display="no" n="1"></note> 
+<persName xml:id="2607"><hi rend="bold underline">Sir Edward Fry</hi></persName> was in the Chair. There was a fair attendance.</p>
+         <table>
+            <row>
+               <cell>
+<hi rend="underline">Anglican</hi>
+               </cell>
+               <cell>
+<hi rend="underline">Nonconformist</hi>
+               </cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="49">Bp. of Oxford</persName>.</cell>
+               <cell>
+<persName xml:id="1009">Scott Lidgett</persName></cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="1191">Scott&#8211;Holland</persName></cell>
+               <cell>
+<persName xml:id="393">Shakespeare</persName></cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="2523">Simpson</persName></cell>
+               <cell>
+<persName xml:id="2608">Adeney</persName>.</cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="545">Dean of Lincoln</persName></cell>
+               <cell>
+<persName xml:id="2609">Peake</persName></cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="1815">" " Lichfield</persName></cell>
+               <cell>
+<persName xml:id="2610">Bradley</persName></cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="401">Sir Edward Russell</persName></cell>
+               <cell/>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="2325">Baumgarten</persName></cell>
+               <cell>
+<persName xml:id="1543">Campbell Morgan</persName></cell>
+            </row>
+            <row>
+               <cell>
+<persName xml:id="2611">Napier</persName></cell>
+               <cell>
+<persName xml:id="2612">Lunn</persName></cell>
+            </row>
+            <row>
+               <cell>H. H. H.</cell>
+               <cell/>
+            </row>
+         </table>
+         <p>We agreed very well on the whole: &amp; came to an acceptance of the Irish terms.</p>
+         <p>I entertained the 
+<orgName xml:id="16">S<hi rend="superscript underline">t</hi> Margaret's</orgName> choirmen at dinner. They all attended together with the 
+<persName xml:id="122">Precentor</persName>, 
+<persName xml:id="2010">Compston</persName>, &amp; 
+<persName xml:id="800">Westlake</persName>.</p>
+         
+</body></text></TEI>

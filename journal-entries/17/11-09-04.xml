@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[297]</hi>
+         </p>
+         <p>
+<hi rend="bold">Monday, September 4</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1911. On the way from Gothenberg to Stockholm.</hi>
+         </p>
+         <p>[symbol]</p>
+         <p>The day was brilliantly fine, though a strong wind somewhat diminished our enjoyment of it.  The route at first lay through broad canals lined with trees: then a beautiful lake; &amp; then the Baltic crowded with wooded islands.  Finally Lake Malar, another dock, &amp; then Stockholm.  We finished our journey at 9 p.m.; having taken 57 hours in doing it.  We drove at once to the Rydberg, where we found a pile of letters awaiting our arrival.  From one of these I learn that the 
+<persName xml:id="280">Bishop of Ripon</persName> has announced his resignation.  So there is yet another bishoprick to be filled.  It will be interesting to see how they <hi rend="underline">are</hi> filled (v.p.38)</p>
+         <table>
+            <row>
+               <cell>Oxford</cell>
+               <cell>
+<persName xml:id="49">Gore</persName> [
+<persName xml:id="625">Paget</persName>]</cell>
+            </row>
+            <row>
+               <cell>Birmingham</cell>
+               <cell>
+<persName xml:id="421">Russell Wakefield</persName> [Gore]</cell>
+            </row>
+            <row>
+               <cell>Salisbury</cell>
+               <cell>
+<persName xml:id="178">Ridgeway</persName> [
+<persName xml:id="1554">Wordsworth</persName>]</cell>
+            </row>
+            <row>
+               <cell>Ripon</cell>
+               <cell>
+<persName xml:id="2074">Drury</persName> [
+<persName xml:id="280">Boyd&#8211;Carpenter</persName>]</cell>
+            </row>
+         </table>
+         <p>Assuredly the Obscurantists have made a good start.  With Gore at Oxford, working with 
+<persName xml:id="105">Talbot</persName> at Winchester, 
+<persName xml:id="130">Lang</persName> at York, &amp; 
+<persName xml:id="166">Ingram</persName> at London, and nothing but a timid &amp; manageable 
+<persName xml:id="128">Davidson</persName> at Lambeth to stand between himself &amp; a complete domination of the Bench, 'tis hard to see how their reign can be shaken.</p>
+</body></text></TEI>
