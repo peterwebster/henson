@@ -11,38 +11,38 @@
             <row>
                <cell rend="No_Spacing">Dec: 7<hi rend="superscript underline">th</hi>
                </cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="102">Christ's Mission &amp; Ours</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="494">Christ's Mission &amp; Ours</ref></cell>
             </row>
             <row>
                <cell rend="No_Spacing">" 14<hi rend="superscript underline">th</hi>
                </cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="103">Associations in Judgment</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="495">Associations in Judgment</ref></cell>
             </row>
             <row>
                <cell rend="No_Spacing">" 21<hi rend="superscript underline">st</hi>
                </cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="104">The Faith that is Blessed</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="496">The Faith that is Blessed</ref></cell>
             </row>
             <row>
                <cell rend="No_Spacing">" 28<hi rend="superscript underline">th</hi>
                </cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="105" display="no">The Holy Innocents</event></listEvent></cell>
+               <cell rend="No_Spacing">The Holy Innocents</cell>
             </row>
             <row>
                <cell rend="No_Spacing">Jan<hi rend="superscript underline">y</hi> 4</cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="106">Christ, our Peace</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="456">Christ, our Peace</ref></cell>
             </row>
             <row>
                <cell rend="No_Spacing">" 11</cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="107">Sincerity in Love</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="457">Sincerity in Love</ref></cell>
             </row>
             <row>
                <cell rend="No_Spacing">" 18</cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="108">The Church &amp; Public Opinion</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="458">The Church &amp; Public Opinion</ref></cell>
             </row>
             <row>
                <cell rend="No_Spacing">" 25</cell>
-               <cell rend="No_Spacing"><listEvent><event xml:id="109">The Wonderful Conversion</event></listEvent></cell>
+               <cell rend="No_Spacing"><ref xml:id="455">The Wonderful Conversion</ref></cell>
             </row>
          </table>
          <p>Besides I preached two sermons in the morning Service. On Dec: 7<hi rend="superscript underline">th</hi> my subject was <listEvent><event xml:id="110">"The Value of the Bible"</event></listEvent>, and on Dec: 14<hi rend="superscript underline">th</hi> <listEvent><event xml:id="111">"The Holy Communion"</event></listEvent>.</p>
