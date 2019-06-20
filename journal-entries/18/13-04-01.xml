@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[317]</hi></p>
+         <p>
+<hi rend="bold">Tuesday, April 1</hi><hi rend="bold superscript underline">st</hi><hi rend="bold">, 1913.</hi></p>
+         <p>
+A dreary wet day from start to finish. I paid bills &amp; wages &#8211; a cheerful performance. The monthly wage&#8211;bill (excluding the gardener) stands thus:&#8211;</p>
+         <table>
+            <row>
+               <cell rend="left">
+<hi>1.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3146" display="no">M<hi rend="superscript underline">rs</hi> Berry</persName> (cook)	
+               </cell>
+               <cell rend="left">
+<hi>&#x00A3;3.6.8.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>2.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="3205" display="no">Caroline</persName> (head parlour maid)</hi>
+               </cell>
+               <cell rend="left">
+<hi>2.3.4.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>3.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="3204" display="no">Sarah</persName> (head house maid)</hi>
+               </cell>
+               <cell rend="left">
+<hi>2.0.0.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>4.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="2693" display="no">Olive</persName> (parlour maid)</hi>
+               </cell>
+               <cell rend="left">
+<hi>1.16.8</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>5.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="3203" display="no">Lily</persName> (house maid)</hi>
+               </cell>
+               <cell rend="left">
+<hi>1.13.4.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>6.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="3202" display="no">Hilda</persName> (kitchen maid)</hi>
+               </cell>
+               <cell rend="left">
+<hi>1.10.0.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>7.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="3201" display="no">Ada</persName> (kitchen maid)</hi>
+               </cell>
+               <cell rend="left">
+<hi>1.6.8.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>8.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3200" display="no">M<hi rend="superscript underline">rs</hi> Braithwayte</persName> (laundry&#8211;woman)
+               </cell>
+               <cell rend="left">
+<hi rend="underline">2.3.4.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>()</hi>
+               </cell>
+               <cell rend="left">
+<hi>()</hi>
+               </cell>
+               <cell rend="left">
+                  <p>
+<hi rend="doubleunderline">&#x00A3;16.0.0.</hi>
+                  </p>
+               </cell>
+            </row>
+         </table>
+         <p>
+            
+         </p>
+</body></text></TEI>

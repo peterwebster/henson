@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p>
+<hi rend="bold">[226]</hi></p>
+         <p>
+<hi rend="bold">Saturday, November 23</hi><hi rend="bold superscript underline">rd</hi><hi rend="bold">, 1912. "Baltic".</hi></p>
+         <p>
+Congratulation letters from the following have been answered:&#8211;</p>
+         <table>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">1.</hi>
+               </cell>
+               <cell rend="left">
+<hi rend="normalweight"><persName xml:id="319">G. W. Prothero</persName></hi>
+               </cell>
+               <cell rend="left">
+<hi rend="normalweight">23.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3286" display="no"><hi rend="normalweight">Rev. John Kerr</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">2. </hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="176"><hi>The Bishop of Peterborough</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>24.</hi>
+               </cell>
+               <cell rend="left">
+<hi>Very Rev. <persName xml:id="1135">J. Mitford Mitchell</persName></hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">3.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="243">Canon Rawnsley</persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>25.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3288" display="no"><hi>Lady Lennard</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">4.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3287"><hi>A. F. Leach</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>26.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="2690"><hi>Warden of New College</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">5.</hi>
+               </cell>
+               <cell rend="List_Paragraph">
+<hi><persName xml:id="566">Fleming</persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>27.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="251"><hi>Grant Roberson</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">6.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="936"><hi>D</hi><hi rend="superscript underline">r</hi><hi> Forrest</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>28.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1330"><hi>George A. Macmillan</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">7.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="2592"><hi>M. Alderson</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>29</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1792"><hi>Eisdell</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">8.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3296"><hi>Chancellor Bernard</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>30.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="7">Alfred Spelling</persName></hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">9.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="249">H. R. Gamble</persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>31.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="427">Dean of S. Paul’s</persName></hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">10.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="822"><hi>C. R. L. Fletcher</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>32.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="178"><hi>Bishop of Salisbury</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">11.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3297"><hi>The Rector of Exeter</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>33.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="166">Bishop of London</persName></hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">12.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3291" display="no"><hi>W. N. Malcolm</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>34.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3227"><hi>Dean of Carlisle</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">13.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="691">Archdeacon Fearon</persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>35.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1862"><hi>Prof. Bonney</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">14.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="313">Vesey Knox</persName>
+               </cell>
+               <cell rend="left">
+<hi>36.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1245"><hi>Canon Deane</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">15.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="2141">Oman</persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>37.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3298"><hi>Bp. of Leicester</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">16.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1039"><hi>Archdeacon Dundas</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>38.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="379"><hi>Dean of Rochester</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">17.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="2735"><hi>Sir George Askwith</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>39.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="667"><hi>Bp. of Dover</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">18.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3289"><hi>D</hi><hi rend="superscript underline">r</hi><hi> Agar Beet</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>40.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="712"><hi>M</hi><hi rend="superscript underline">c</hi><hi>Adam Muir</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">19.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3290" display="no"><hi>Rev. H. de Bas</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>41.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="2131">Harold Cox</persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">20.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="572"><hi>Rev. Canon Kennett</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>42.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="2613"><hi>Dean of Ely</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">21.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1378">Dean of Winchester</persName>
+               </cell>
+               <cell rend="left">
+<hi>43.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="117">Canon Rashdall</persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">22.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3302" display="no">M<hi rend="superscript underline">rs</hi> Hamilton</persName>
+               </cell>
+               <cell rend="left">
+<hi>44.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1185">D<hi rend="superscript underline">r</hi> Tait</persName>
+               </cell>
+            </row>
+         </table>
+         <p>
+<hi rend="bold">[227]</hi>
+         </p>
+         <p>
+<hi>The weather continues to be favourable, though the sea is perceptibly more disturbed, &amp; the sky is overcast. We did 329 miles the first day, &amp; 376 the second.</hi> 
+         </p>
+         <p>
+<hi>I wrote letters on deck most of the day: &amp; after dinner read through <persName xml:id="3303" display="no">Mason's</persName> novel <ref xml:id="726">"The Broken Road"</ref>.</hi>
+         </p>
+         <p>
+At dinner the conversation turned on the treatment of aborigines. <hi rend="bold underline">The captain expressed himself rather brutally. The reports of the rubber&#8211;atrocities in Peru were 'mostly newspaper stuff'. I asked him whether he had read the Blue Book. Of course he had not</hi>.</p>
+         <p>
+<persName xml:id="3017"><hi rend="i doubleunderline">Lord Richard Cavendish</hi></persName><hi rend="italic"> is on board. He introduced himself to me as a former member of my congregation. </hi>He is rather a mean replica of his brother the <persName xml:id="368">Duke</persName>. He civilly congratulated me on my appointment to the Deanery, &amp; spoke eulogistically of the house.</p>
+         <table>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">45.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1211"><hi rend="normalweight">G. W. E. Russell</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi rend="normalweight">54. </hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3305"><hi rend="normalweight">P. E. Matheson</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">46.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="644"><hi>Llewelyn Davies</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>55.</hi>
+               </cell>
+               <cell rend="left">
+<hi><persName xml:id="601">Sir Kenneth Muir Mackenzie</persName></hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">47.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="888" display="no"><hi>Anthony Browne</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>56.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="242"><hi>Bp. of Manchester</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">48.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3294"><hi>Rev. Chas. Geeson</hi></persName>
+               </cell>
+               <cell rend="left">
+<hi>57.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="276"><hi>Bp. of Durham</hi></persName>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">49.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3295" display="no"><hi>Rev. J. C. Walters</hi></persName>
+               </cell>
+               <cell rend="left"/>
+               <cell rend="left"/>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">50.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3292"><hi>Rev. Herbert Dale</hi></persName>
+               </cell>
+               <cell rend="left"/>
+               <cell rend="left"/>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">51.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3293" display="no"><hi>A. S. Owen</hi></persName>
+               </cell>
+               <cell rend="left"/>
+               <cell rend="left"/>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">52.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="3307" display="no"><hi>S. G. Owen</hi></persName>
+               </cell>
+               <cell rend="left"/>
+               <cell rend="left"/>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="normalweight">53.</hi>
+               </cell>
+               <cell rend="left">
+<persName xml:id="1073" display="no"><hi>Prof. Milligan</hi></persName>
+               </cell>
+               <cell rend="left"/>
+               <cell rend="left"/>
+            </row>
+         </table>
+         <p>
+</p>
+</body></text></TEI>
