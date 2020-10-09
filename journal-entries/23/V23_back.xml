@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <table>
+            <row>
+               <cell rend="left">
+<hi>League of Nations </hi>
+               </cell>
+               <cell rend="left">
+<hi>115</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Unfermented Wine in H.C.</hi>
+               </cell>
+               <cell rend="left">
+<hi>127</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>[symbol]</hi><hi rend="italic"><persName xml:id="3230">Streeter</persName> inscribes a copy of "Immortality"</hi>
+               </cell>
+               <cell rend="left"/>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="italic underline">Ecclesiae libertatis propugnation</hi>
+               </cell>
+               <cell rend="left">
+<hi>129</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="italic">My opinion of the volume</hi>
+               </cell>
+               <cell rend="left">
+<hi>131</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>A visit to Broadstairs</hi>
+               </cell>
+               <cell rend="left">
+<hi>132</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Harold Henson's<persName xml:id="1097"></persName> account of sexual morality in the 13.E.7 and of the chaplains</hi>
+               </cell>
+               <cell rend="left">
+<hi>133</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>[symbol] The fame of Durham</hi>
+               </cell>
+               <cell rend="left">
+<hi>142</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>[symbol] The Abp's letter to Serres<persName xml:id="4066"></persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>142</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>[symbol] D. Forsyth<persName xml:id="1520"></persName> on the Evangelicals</hi>
+               </cell>
+               <cell rend="left">
+<hi>148</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Strike of the London Police August 30</hi><hi rend="superscript underline">th</hi><hi>, 1918.</hi>
+               </cell>
+               <cell rend="left"/>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>My 1</hi><hi rend="superscript underline">st</hi><hi> night in the Palace.</hi>
+               </cell>
+               <cell rend="left">
+<hi>149</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>A Letter to Bp of M. on the "inherent powers &amp; functions of the Episcopate”</hi>
+               </cell>
+               <cell rend="left">
+<hi>153 cf.181</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Inst</hi><hi rend="superscript underline">n</hi><hi> of Compston<persName xml:id="2010"></persName> at Bredwardine</hi>
+               </cell>
+               <cell rend="left">
+<hi>159</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Newbolt's'<persName xml:id="3946"></persName> story about the Tommie's comment on the Kaiser's<persName xml:id="4705"></persName> piety</hi>
+               </cell>
+               <cell rend="left">
+<hi>161</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Dinner with Darling<persName xml:id="4032"></persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>161f.</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>The Cons: Objector's conception of the Bp of H.</hi>
+               </cell>
+               <cell rend="left">
+<hi>163</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>An officer's opinion of Army Morality</hi>
+               </cell>
+               <cell rend="left">
+<hi>164</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Neglected state of Ashperton church</hi>	
+               </cell>
+               <cell rend="left">
+<hi>168</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Athelston Riley's<persName xml:id="213"></persName> brother</hi>
+               </cell>
+               <cell rend="left">
+<hi>170</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Letter to Rev. W. Orr<persName xml:id="4644"></persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>172</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>The Railway Strike</hi>
+               </cell>
+               <cell rend="left">
+<hi>174f.&#8211;177</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Visit to Canterbury</hi>
+               </cell>
+               <cell rend="left">
+<hi>187&#8211;190</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Deputation to Colonial Office on Native Rights</hi>
+               </cell>
+               <cell rend="left">
+<hi>191</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi rend="bold underline">Evangelical Missionaries far more afraid of Henson than of the Bp of Z.</hi>
+               </cell>
+               <cell rend="left">
+<hi>p. 191</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Bryce<persName xml:id="389"></persName> presides at my lecture in King's College</hi>
+               </cell>
+               <cell rend="left">
+<hi>192</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>"The Naked Truth"<ref xml:id="1026"></ref></hi>
+               </cell>
+               <cell rend="left">
+<hi>193</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>I preach to the Congregationalists in Hereford</hi>
+               </cell>
+               <cell rend="left">
+<hi>197</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Committee on Relations of Ch. &amp; Dissent Resolutions</hi>
+               </cell>
+               <cell rend="left">
+<hi>p. 199</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>I reserve my liberty of action in the matter. Service candidates</hi>
+               </cell>
+               <cell rend="left">
+<hi>200</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>A letter to an incumbent</hi>
+               </cell>
+               <cell rend="left">
+<hi>201</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>[symbol] Death of Bp. Boyd Carpenter<persName xml:id="280"></persName></hi>
+               </cell>
+               <cell rend="left">
+<hi>202</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>The Abp<persName xml:id="128"></persName> on the L. &amp; L. debate</hi>
+               </cell>
+               <cell rend="left">
+<hi>205</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Disappearance of the hoardings at D.</hi>
+               </cell>
+               <cell rend="left">
+<hi>211</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>I wear a cope in All SS</hi>	
+               </cell>
+               <cell rend="left">
+<hi>216</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Some observations on the influence of the Cecils on the CofE.</hi>
+               </cell>
+               <cell rend="left">
+<hi>219</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>Shakespeare<persName xml:id="393"></persName> on Reunion</hi>
+               </cell>
+               <cell rend="left">
+<hi>220</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">
+<hi>A hostile description of Hereford folk</hi>
+               </cell>
+               <cell rend="left">
+<hi>221</hi>
+               </cell>
+            </row>
+         </table>
+      </body>
+   </text></TEI>
