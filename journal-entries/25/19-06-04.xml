@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p><hi rend="bold">[8]</hi>
+         </p>
+         <p><hi rend="bold">Wednesday, June 4</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1919.</hi>
+         </p>
+         <p>[symbol]</p>
+         <p>We motored to Much Wenlock (50 miles) and there I confirmed 40 candidates in the parish church. After the service we had tea with <hi rend="doubleunderline">Lady Catherine Milnes&#8211;Gaskell</hi><persName xml:id="4996"></persName> at Wenlock Abbey. We reached the Palace about 8 p.m.</p>
+         <p><hi rend="italic bold underline">The debate on the 2</hi><hi rend="i bold superscript underline">nd</hi><hi rend="italic bold underline"> Reading of the Enabling Bill began last night in the House of Lords</hi><hi rend="i bold">.</hi><hi rend="italic"> On the whole the speeches both of the Archbishop<persName xml:id="128"></persName> and of </hi><hi rend="i doubleunderline">Lord Haldane</hi><persName xml:id="956"></persName><hi rend="italic"> were disappointing. I had expected something better from both.</hi> The debate was adjourned until June 24<hi rend="superscript underline">th</hi>. <hi rend="bold underline">The </hi><hi rend="bold underline">Bishop of Carlisle has a long letter in the "Times" against the Bill. It presents all the distinctive merits and also the demerits of the writer. Save as making public another episcopal opponent of the Bill, the letter will not be of much service</hi><hi rend="bold">.</hi>
+         </p>
+         <list type="ordered">
+            <item><hi rend="underline">Manchester</hi><persName xml:id="242"></persName></item>
+            <item><hi rend="underline">Carlisle</hi><persName xml:id="720"></persName></item>
+            <item>Newcastle<persName xml:id="1980"></persName> </item>
+            <item>Hereford</item>
+            <item>Worcester<persName xml:id="636"></persName></item>
+            <item><hi rend="underline">Birmingham</hi><persName xml:id="421"></persName></item>
+            <item><hi rend="underline">Southwark</hi><persName xml:id="602"></persName></item>
+            <item>Bristol<persName xml:id="2533"></persName></item>
+            <item><hi rend="underline">Norwich</hi><persName xml:id="1816"></persName></item>
+         </list>
+         <p>These 9 bishops, of whom but 5 have seats in the House are more or less hostile to the Bill. <hi rend="bold underline">The defection of the bishops of Liverpool<persName xml:id="477"></persName>, Durham, Ripon<persName xml:id="2074"></persName>, Peterborough<persName xml:id="3933"></persName> and Chelmsford<persName xml:id="2462"></persName> has made it possible to pretend that the Bill is not an affair of the High Church faction</hi><hi rend="bold">.</hi> The Evangelicals are always a rotten stick to lean on.</p>
+         </body></text></TEI>

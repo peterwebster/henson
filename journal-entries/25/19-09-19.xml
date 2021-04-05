@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p><hi rend="bold">[174]</hi>
+         </p>
+         <p><hi rend="bold">Friday, September 19</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1919.</hi>
+         </p>
+         <p>[symbol]</p>
+         <p>I received a letter from the Bishop of Norwich<persName xml:id="1816"></persName> in which he thanks me for my letter in the "<hi rend="underline">Times</hi>": he says,</p>
+         <div type="quote">
+         <p>"It is rather interesting to see that the Bishop of Winchester<persName xml:id="105"></persName>, as a whole, heartily joins hands with Gore<persName xml:id="49"></persName>: this, I think, clears the air because his position hitherto, has hindered us as much as it has helped us because, though taking the lead in this matter, his lead has been more circular than straight. Probably you and Manchester<persName xml:id="242"></persName> will receive replies from Gore or his friends but you are a master of the subject, and will have a rejoinder ready for them. I think it is clear that I had better now put down for the <hi rend="bold underline">Bishops' Meeting a discussion on "the letter of the seven Free Church Leaders"</hi><hi rend="bold">.<note xml:id="484" n="1"></note></hi>
+         </p>
+        </div>
+         <p>We must be careful against bringing about an adverse vote of the Bishops' Convocation<orgName xml:id="68"></orgName>, which would go some way towards stamping our position as merely individualistic, whereas our rightful claim <hi rend="bold underline">is that we are working for the maintenance of the historic character of the Church of England</hi><hi rend="bold">. </hi>Probably there will be another dilatory reference to the Lambeth Conference<orgName xml:id="114"></orgName>. I spent the whole morning on the Anson<persName xml:id="228"></persName> Memoir<ref xml:id="996"></ref> with very little result. It is surely the case that a more incompetent biographer never lived!</p>
+         </body></text></TEI>

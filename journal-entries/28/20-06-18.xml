@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p><hi rend="bold">[23]</hi></p>
+         <p><hi rend="bold">Friday, June 18</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1920.</hi></p>
+         <p>[symbol]</p>
+         <p>In view of the kind assurances which I have received from all quarters, and the flatterous references to my departure which all the local newspapers contain, the following from the "Church Times", whose editor lives in this diocese &amp; may be presumed to know the facts, merits record:&#8211;</p>
+         <div type="quote">
+         <p><hi rend="italic">"D</hi><hi rend="i sup u">r</hi><hi rend="italic"> Henson returns to Durham, upon which he is credited with having cast long backward glances. His discontent with his rural diocese and his cool relations with it are the most open of secrets, not to be offset by the insincere courtesies of the daily Press. As Dean of Durham he did good service, and we may be allowed to express the hope that  ̶  wiser by two years of experience  ̶  he may ultimately justify his consecration more fully than once seemed possible."</hi></p>
+         <p><hi rend="italic">Before D</hi><hi rend="i sup u">r</hi><hi rend="italic"> Linton Smith<persName xml:id="4851"></persName> ... lies the most difficult task of all. He has to restore the ideal of fatherly rule in a diocese which has all but forgotten what a bishop's office is, and which during the long episcopate of D</hi><hi rend="i sup u">r</hi><hi rend="italic"> Percival<persName xml:id="475"></persName> &amp; the short episcopate of D</hi><hi rend="i sup u">r </hi><hi rend="italic">Henson has felt so far out of sympathy with its bishops as to evade all but the most necessary relations with them. He has to win the confidence which has been alienated, &amp; to show himself both orthodox and possessed of the pastoral spirit."</hi></p>
+         </div>
+         <p>This no doubt will form the nucleus of my episcopal legend! </p>
+         <p><hi rend="bold">[24]</hi></p>
+         <p><hi rend="bold underline">I showed this precious paragraph to the Dean<persName xml:id="5128"></persName>, and he expressed the utmost disgust &amp; indignation. He insisted that some protest should be made, &amp; set to work on drafting something forthwith</hi>.</p>
+         <p>The two new Bishops, Strong<persName xml:id="120"></persName> &amp; Williams<persName xml:id="4879"></persName>, are both popular Oxford residents. Their departure must needs make a great stir in the academic republic, in which both were playing important parts. Indeed, Strong is at this moment the leading resident, and he will be hard to replace. Oxford influence is greatly extended by these appointments. On the balance I incline to think that the Sacerdotalists have gained.</p>
+         <table>
+            <row>
+               <cell rend="left">
+                  <hi rend="underline">Sacerdotalist</hi>
+               </cell>
+               <cell rend="left">
+                  <hi rend="underline">Evangelical</hi>
+               </cell>
+               <cell rend="left">
+                  <hi rend="underline">Liberal</hi>
+               </cell>
+            </row>
+            <row>
+               <cell rend="left">York<persName xml:id="130"></persName></cell>
+               <cell rend="left">Manchester<persName xml:id="242"></persName></cell>
+               <cell rend="left">Durham<persName xml:id="276"></persName></cell>
+            </row>
+            <row>
+               <cell rend="left">Chester<persName xml:id="2409"></persName></cell>
+               <cell rend="left">Liverpool<persName xml:id="477"></persName></cell>
+               <cell rend="left">Newcastle<persName xml:id="1980"></persName></cell>
+            </row>
+            <row>
+               <cell rend="left">Ripon<persName xml:id="120"></persName></cell>
+               <cell rend="left">Bradford</cell>
+               <cell rend="left">Carlisle<persName xml:id="4879"></persName></cell>
+            </row>
+            <row>
+               <cell rend="left">Sheffield<persName xml:id="3533"></persName></cell>
+               <cell rend="left">Sodor &amp; Man<persName xml:id="3229"></persName></cell>
+               <cell rend="left">&#8211;</cell>
+            </row>
+            <row>
+               <cell rend="left">Wakefield<persName xml:id="2980"></persName></cell>
+               <cell rend="left">&#8211;</cell>
+               <cell rend="left">&#8211;</cell>
+            </row>
+         </table>
+         <p>The numbers hardly indicate the strength of the parties: for while all the Sacerdotalists can be counted upon to attend &amp; act together, at least two of the Evangelicals (Liverpool &amp; Sodor &amp; Man) are irregular in their attendance: &amp; one (Manchester) "plays his own game". At any given moment the probability is that the Sacerdotalists will be in a majority, &amp; they will have the advantage of what is called "inside knowledge", for the President (York) will be frankly on their side, &amp; may be trusted to arrange the business for the benefit of their cause. It is a thoroughly incoherent assembly in any case. </p>
+         </body></text></TEI>
