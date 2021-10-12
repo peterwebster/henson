@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p><hi rend="bold">[38]</hi></p>
+         <p><hi rend="bold">Friday, May 16</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1924.</hi></p>
+         <p>A Frenchman, <hi rend="doubleunderline">M. Andr&#x00E9; Siegfried</hi>, has written a book about England – '<hi rend="underline">L'Angleterre d'Aujourd'hui, Son &#x00E9;volution&#x00E9; &#x00E9;conomique et politique'</hi> – of which the "Times" gives an account. He is astonished at the Christian sympathies of "Labour" – "<hi rend="underline">Labour politicians, in their speeches, always lay claim to be as good Christians as anybody else</hi>".</p>
+         <div type="quote">
+         <p>"In its attitude towards Europe, the English people is all impregnated with this Protestant spirit, with its doctrinal idealism, its habit of treating all questions from a moral angle, its inclination to preach sermons &amp; to consider that English Protestants are the salt of the earth, &amp;, finally, its unconscious pharisaism, which persuades it that it is performing a duty when it is really only consulting with its own interests".</p>
+         </div>
+         <p>This is very acute, very unflattering, and very suggestive.</p>
+         <p>I motored to Durham, &amp; instructed Wilson<persName xml:id="2748"></persName> to prepare the petition to the King asking that a new Bishop suffragan might be appointed, &amp; recommending the names of Knight<persName xml:id="62"></persName> and Derry<persName xml:id="3688"></persName> in that order. Then I went to Castle Eden, &amp; confirmed 84 candidates. Returning to the Castle for tea, I went out again to New Shildon, where I confirmed 123 candidates:</p>
+         <table>
+            <row>
+               <cell style="text&#8211;align: left;">Trimdon Grange</cell>
+               <cell style="text&#8211;align: left;">118</cell>
+               <cell style="text&#8211;align: left;">&#8211;</cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">Ferry Hill </cell>
+               <cell style="text&#8211;align: left;">138</cell>
+               <cell style="text&#8211;align: left;">&#8211;</cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">Castle Eden </cell>
+               <cell style="text&#8211;align: left;">84</cell>
+               <cell style="text&#8211;align: left;">455</cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">New Shildon</cell>
+               <cell style="text&#8211;align: left;">
+                  <hi rend="underline">123</hi>
+               </cell>
+               <cell style="text&#8211;align: left;">
+                  <hi rend="underline">463</hi>
+               </cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">&#8211;</cell>
+               <cell style="text&#8211;align: left;">
+                  <hi rend="underline">463</hi>
+               </cell>
+               <cell style="text&#8211;align: left;">
+                  <hi rend="underline">918 confirmed this week</hi>
+               </cell>
+            </row>
+         </table>
+         </body></text></TEI>

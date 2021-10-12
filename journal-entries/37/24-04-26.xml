@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+         <p><hi rend="bold">[16]</hi></p>
+         <p><hi rend="bold">Saturday, April 26</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1924.</hi></p>
+         <p>We left Wyelands shortly after 10 a.m. &amp; motored to Exeter by way of Gloucester, Bristol, Bridgewater, &amp; Taunton, arriving shortly after 6 p.m., having travelled 138 miles. In 3 stages we have motored 422 miles viz.</p>
+         <table>
+            <row>
+               <cell style="text&#8211;align: left;">Auckland Castle to Sandbeck Park</cell>
+               <cell style="text&#8211;align: left;">114 miles.</cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">Sandbeck Park to Wyelands</cell>
+               <cell style="text&#8211;align: left;">170.</cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">Wyelands to Exeter Deanery</cell>
+               <cell style="text&#8211;align: left;">
+                  <hi rend="underline">138</hi>.</cell>
+            </row>
+            <row>
+               <cell style="text&#8211;align: left;">&#8211;</cell>
+               <cell style="text&#8211;align: left;">422</cell>
+            </row>
+         </table>
+         <p>We found the Dean<persName xml:id="249"></persName>, M<hi rend="superscript underline">rs</hi> Gamble, and their daughter at home, and had a pleasant quiet evening with them.</p>
+         <p>Anthea Gamble is a pretty girl, who has just "come out" at the County Ball.</p></body></text></TEI>
