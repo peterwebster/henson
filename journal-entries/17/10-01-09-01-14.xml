@@ -33,7 +33,7 @@
 <persName xml:id="41"><hi rend="i doubleunderline">Harry Davis</hi></persName><hi rend="italic"> &amp; his 
 <persName xml:id="927" display="no">sister</persName> arrived here on Monday night for a short visit.  He has been offered a Professorship at Harvard.</hi>
          </p>
-         <p>On <hi rend="underline">Wednesday, the 12</hi><hi rend="superscript underline">th</hi> we gave a dinner&#8211;party followed by a small reception.</p>
+         <p>On <hi rend="underline">Wednesday, the 12</hi><hi rend="superscript underline">th</hi> we gave a dinner–party followed by a small reception.</p>
          <p>On <hi rend="underline">Thursday, the 13</hi><hi rend="superscript underline">th</hi>, the 'Westminster Gazette' announced the appointment <hi rend="bold underline">of </hi>
 <persName xml:id="1816"><hi rend="bold underline">D</hi><hi rend="bold superscript underline">r</hi><hi rend="bold underline"> Pollock</hi></persName><hi rend="bold underline">, Headmaster of Wellington, to the Bishoprick of Norwich</hi>.</p>
          <p>On <hi rend="underline">Friday, the 14</hi><hi rend="superscript underline">th</hi> 
@@ -43,9 +43,9 @@
          <table>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Truro</item>
-                  </list>
+                
+                     1. Truro
+              
                </cell>
                <cell>
 <persName xml:id="647">Stubbs</persName></cell>
@@ -56,9 +56,9 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Newcastle</item>
-                  </list>
+                
+                     2. Newcastle
+                 
                </cell>
                <cell>
 <persName xml:id="1132">Straton</persName></cell>
@@ -69,9 +69,9 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Chichester</item>
-                  </list>
+                 
+                   3. Chichester
+                  
                </cell>
                <cell>
 <persName xml:id="1218">Ridgway</persName> </cell>
@@ -82,9 +82,8 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>York.</item>
-                  </list>
+               4. York.
+                 
                </cell>
                <cell>
 <persName xml:id="130">Lang</persName></cell>
@@ -95,9 +94,9 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Norwich</item>
-                  </list>
+                 
+                     5. Norwich
+                 
                </cell>
                <cell>
 <persName xml:id="1816">Pollock</persName></cell>
@@ -108,9 +107,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Lincoln</item>
-                  </list>
+                 6. Lincoln
                </cell>
                <cell>
 <persName xml:id="1643">Hicks</persName></cell>
@@ -121,9 +118,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Winchester</item>
-                  </list>
+                  7. Winchester
                </cell>
                <cell>
 <persName xml:id="105">Talbot</persName></cell>
@@ -134,9 +129,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Southwark</item>
-                  </list>
+                  8. Southwark
                </cell>
                <cell>
 <persName xml:id="602">Burge</persName></cell>
@@ -147,9 +140,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Oxford</item>
-                  </list>
+                  9. Oxford
                </cell>
                <cell>
 <persName xml:id="49">Gore</persName></cell>
@@ -160,9 +151,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Salisbury</item>
-                  </list>
+                  10. Salisbury
                </cell>
                <cell>
 <persName xml:id="178">Ridgeway</persName></cell>
@@ -172,12 +161,11 @@
 <persName xml:id="1554">Wordsworth</persName></cell>
             </row>
          </table>
+<p>.</p>
          <table>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>Deanery of Norwich</item>
-                  </list>
+                  1. Deanery of Norwich
                </cell>
                <cell>
 <persName xml:id="421">Russell Wakefield</persName> [
@@ -185,9 +173,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " Worcester</item>
-                  </list>
+                  2. " " Worcester
                </cell>
                <cell>
 <persName xml:id="1814">Moore Ede</persName> [
@@ -195,9 +181,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " Peterborough</item>
-                  </list>
+                  3. " " Peterborough
                </cell>
                <cell>
 <persName xml:id="1813">Arnold Page</persName> [
@@ -205,19 +189,14 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " Lichfield</item>
-                  </list>
+                  4. " " Lichfield
                </cell>
                <cell>
 <persName xml:id="1815">Savage</persName> [
 <persName xml:id="1801" display="no">Luckock</persName>]</cell>
             </row>
             <row>
-               <cell>
-                  <list type="ordered">
-                     <item>" " Lincoln</item>
-                  </list>
+             <cell> 5. " " Lincoln
                </cell>
                <cell>
 <persName xml:id="545">Fry</persName> [
@@ -225,19 +204,15 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " Wells</item>
-                  </list>
+                  6. " " Wells
                </cell>
                <cell>
 <persName xml:id="44">Armitage Robinson</persName> [
-<persName xml:id="721">Jex&#8211;Blake</persName>]</cell>
+<persName xml:id="721">Jex–Blake</persName>]</cell>
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " Westminster</item>
-                  </list>
+                  7. " " Westminster
                </cell>
                <cell>
 <persName xml:id="325">Bishop Ryle</persName> [
@@ -245,9 +220,7 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " St. Paul's</item>
-                  </list>
+                 8. " " St. Paul's
                </cell>
                <cell>
 <persName xml:id="427">Inge</persName> [
@@ -255,27 +228,26 @@
             </row>
             <row>
                <cell>
-                  <list type="ordered">
-                     <item>" " Norwich</item>
-                  </list>
+                  9. " " Norwich
                </cell>
                <cell>
 <persName xml:id="208">Beeching</persName> [
-<persName xml:id="421">Russell&#8211;Wakefield</persName>]</cell>
+<persName xml:id="421">Russell–Wakefield</persName>]</cell>
             </row>
          </table>
+<p>.</p>
          <table>
             <row>
                <cell>Regius Professor of Divinity at Oxford</cell>
                <cell>
-<persName xml:id="1191">Scott&#8211;Holland</persName> [
+<persName xml:id="1191">Scott–Holland</persName> [
 <persName xml:id="191">Ince</persName>]</cell>
             </row>
             <row>
                <cell>Canon of S<hi rend="superscript underline">t</hi> Paul's</cell>
                <cell>
 <persName xml:id="423">Simpson</persName> [
-<persName xml:id="1191">Scott&#8211;Holland</persName>]</cell>
+<persName xml:id="1191">Scott–Holland</persName>]</cell>
             </row>
             <row>
                <cell>Canon of Manchester</cell>
